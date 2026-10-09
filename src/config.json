@@ -1,0 +1,11 @@
+{
+  "name":"SAMANA South Haven 2",
+  "origin":null,
+  "indexable":false,
+  "tallyId":"kdD946",
+  "priceDate":"2026-10-09",
+  "aedPerUsd":3.6725,
+  "studioFloors":[{"floor":1,"min":644000,"max":644000},{"floor":2,"min":659000,"max":659000},{"floor":3,"min":669000,"max":669000},{"floor":4,"min":669000,"max":674000},{"floor":5,"min":679000,"max":684000},{"floor":6,"min":689000,"max":694000}],
+  "twoBed":{"min":1314000,"max":1354000,"units":[204,304,404,504,604],"minSqft":1059,"maxSqft":1085,"parking":1},
+  "sources":{"investorVisa":"https://dubailand.gov.ae/en/eservices/request-for-investor-visa/","goldenVisa":"https://dubailand.gov.ae/en/eservices/request-for-golden-visa-investor/","exchange":"https://centralbank.ae/en/forex-eibor/exchange-rates/"}
+}

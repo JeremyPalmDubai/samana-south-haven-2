@@ -1,0 +1,1328 @@
+{
+  "en": {
+    "lang": "en",
+    "country": "International",
+    "seo": {
+      "title": "SAMANA South Haven 2 | Apartments in Dubai South",
+      "description": "Explore SAMANA South Haven 2 in Dubai South. Studios, 1-bedroom and 2-bedroom residences, resort-style amenities and a personalised investment enquiry."
+    },
+    "slugs": {
+      "home": "samana-south-haven-2-dubai-south",
+      "guide": "invest-in-dubai-south-from-abroad",
+      "payment": "payment-plan",
+      "residences": "apartments"
+    },
+    "nav": {
+      "project": "The project",
+      "residences": "Residences",
+      "lifestyle": "Lifestyle",
+      "location": "Location",
+      "invest": "Invest",
+      "contact": "Enquire",
+      "language": "Language",
+      "menu": "Open menu",
+      "close": "Close menu"
+    },
+    "hero": {
+      "eyebrow": "SAMANA SOUTH HAVEN 2 · DUBAI SOUTH",
+      "title": "A new direction.\nA different rhythm.",
+      "subtitle": "Contemporary residences. Resort-inspired days. Discover a more considered way to live in Dubai South.",
+      "cta": "Receive the brochure",
+      "secondary": "Explore the residences"
+    },
+    "intro": {
+      "eyebrow": "01 / A SENSE OF PLACE",
+      "title": "More space\nto live well.",
+      "text": "SAMANA South Haven 2 brings studios, one-bedroom homes and two-bedroom residences with a storeroom to Dubai South. A community shaped around comfort, leisure and the everyday moments that make a home."
+    },
+    "architecture": {
+      "eyebrow": "02 / ARCHITECTURE",
+      "title": "Clean lines.\nOpen possibilities.",
+      "text": "Contemporary detailing, landscaped surroundings and a calm interior palette create a welcoming setting. Thoughtful layouts make room for quiet mornings, shared evenings and everything in between."
+    },
+    "amenities": {
+      "eyebrow": "03 / THE EVERYDAY, REIMAGINED",
+      "title": "Your day.\nYour pace.",
+      "text": "Move, pause, work or reconnect. The development’s published amenities bring the feeling of a resort into the rhythm of everyday life.",
+      "items": [
+        "Adult swimming pool",
+        "Outdoor jacuzzi",
+        "Children’s pool and play area",
+        "Rooftop indoor gym",
+        "Rooftop steam room and sauna",
+        "Co-working lounge with private booths",
+        "Outdoor cinema",
+        "Multipurpose court",
+        "Outdoor gym and jogging track",
+        "Reading lounge and landscaped seating"
+      ]
+    },
+    "location": {
+      "eyebrow": "04 / DUBAI SOUTH",
+      "title": "A southern\nperspective.",
+      "text": "Discover a home in Dubai South, within Dubai’s evolving southern corridor and connected to destinations including Expo City and Al Maktoum International Airport.",
+      "note": "The developer’s brochure indicates 15–20-minute journeys to the listed destinations. Times are indicative and vary with route and traffic.",
+      "landmarks": [
+        "Al Maktoum International Airport",
+        "Expo City",
+        "Dubai Marina",
+        "Ibn Battuta Mall",
+        "Dubai Investment Park",
+        "Jebel Ali"
+      ]
+    },
+    "residences": {
+      "eyebrow": "05 / FIND YOUR SPACE",
+      "title": "One address.\nYour own way of living.",
+      "text": "Explore the layouts presented in the developer’s brochure. Ask for the current unit list, exact areas and specifications before selecting your residence.",
+      "items": [
+        {
+          "name": "Studio",
+          "description": "An efficient, open-plan space for a considered everyday routine.",
+          "slug": "studio"
+        },
+        {
+          "name": "One bedroom",
+          "description": "Separate living and sleeping spaces, with four layout types presented in the brochure.",
+          "slug": "one-bedroom"
+        },
+        {
+          "name": "Two bedrooms + storeroom",
+          "description": "Additional space to share, settle in and keep everyday life organised.",
+          "slug": "two-bedrooms-storeroom"
+        }
+      ],
+      "cta": "Receive the floor plans"
+    },
+    "payment": {
+      "eyebrow": "06 / YOUR INVESTMENT",
+      "title": "A clear plan\nstarts with a conversation.",
+      "text": "Explore the supplied studio and selected two-bedroom prices, then request current availability and the developer’s payment schedule. One-bedroom prices, payment terms and handover timing remain on request.",
+      "steps": [
+        "Choose your preferred residence",
+        "Review availability, full costs and the proposed schedule",
+        "Verify the project documents and purchase terms"
+      ],
+      "cta": "Request prices & payment plan"
+    },
+    "visa": {
+      "eyebrow": "RESIDENCY OPTIONS",
+      "title": "A home.\nA longer horizon.",
+      "text": "A property investment may support a UAE residency application, depending on the property, ownership structure and current authority requirements.",
+      "investor": "Investor residence: request an assessment of your property and ownership circumstances. Eligibility must be confirmed by the relevant authority.",
+      "golden": "Golden Visa: the real-estate route generally requires property investment of at least AED 2 million, subject to documentary and authority checks.",
+      "note": "Buying a unit does not automatically grant a visa. Approval, qualifying documents and applicable requirements must be checked for your individual case."
+    },
+    "guide": {
+      "eyebrow": "INVESTING FROM ABROAD",
+      "title": "Your Dubai South purchase,\nfrom wherever you are.",
+      "paragraphs": [
+        "Begin with your objective: a future home, a second address or a rental investment. Compare the location, unit layout, total purchase costs and ongoing charges before deciding whether SAMANA South Haven 2 fits your plans. No rental income or capital growth is guaranteed.",
+        "For a purchase from overseas, request the project registration details, sale agreement, current payment schedule and official payment instructions. Arrange independent checks and establish how signing, identity verification and property management would work in your circumstances.",
+        "Your country of tax residence may have reporting and tax requirements for overseas property, rental income or a later sale. Seek advice locally and in the UAE before committing, and consider currency movements when preparing your budget."
+      ],
+      "cta": "Discuss your investment"
+    },
+    "faq": {
+      "eyebrow": "YOUR QUESTIONS",
+      "title": "A little clarity.\nBefore your next move.",
+      "items": [
+        {
+          "q": "Where is SAMANA South Haven 2?",
+          "a": "The development is located in Dubai South. The developer’s materials identify nearby destinations including Expo City and Al Maktoum International Airport; request the exact project location and check your preferred journeys."
+        },
+        {
+          "q": "Which types of apartment are presented?",
+          "a": "The supplied brochure presents studios, four one-bedroom layout types and a two-bedroom residence with a storeroom. Current availability, areas and final specifications should be confirmed for the selected unit."
+        },
+        {
+          "q": "What are the prices and payment plan?",
+          "a": "The supplied prices start at AED 644,000 for studios and AED 1,314,000 for selected two-bedroom residences with a storeroom. Availability and terms require confirmation. One-bedroom prices, the payment schedule and handover timing are available on request."
+        },
+        {
+          "q": "Can I enquire from another country?",
+          "a": "Yes. Share your country, preferred apartment and budget through the enquiry form. Ask how remote viewing, document checks and signing can be arranged for your situation."
+        },
+        {
+          "q": "Does a purchase qualify for an investor or Golden Visa?",
+          "a": "Property ownership may support a residency application, subject to current requirements and approval. The Golden Visa real-estate route generally requires at least AED 2 million. A unit purchase alone does not guarantee eligibility or approval."
+        },
+        {
+          "q": "Are rental returns guaranteed?",
+          "a": "No guaranteed return is stated on this website. Assess achievable rent, occupancy, service charges, management costs and market conditions using current independent evidence before making an investment decision."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "YOUR NEXT CHAPTER",
+      "title": "Find your\nsouth.",
+      "text": "Receive the brochure, ask for current availability and explore the right residence for your plans.",
+      "cta": "Start my enquiry",
+      "reassurance": "Your details are used to respond to your property enquiry.",
+      "missingForm": "The enquiry form is being connected. Please return shortly."
+    },
+    "footer": {
+      "description": "Contemporary residences and resort-inspired living in Dubai South.",
+      "explore": "Explore",
+      "investment": "Investment",
+      "legal": "Information",
+      "privacy": "Privacy",
+      "disclaimer": "Project information",
+      "copyright": "All rights reserved.",
+      "sources": "Sources",
+      "visaSource": "Official Dubai Land Department residency information",
+      "brochureSource": "Developer brochures supplied for this project",
+      "disclaimerText": "Information is provided for general guidance. Images are developer renderings and are illustrative. Availability, specifications, prices, payment terms and completion dates require written confirmation. This website does not provide financial, tax or immigration advice.",
+      "privacyText": "The enquiry form collects the details you choose to submit so the recipient can respond to your property enquiry. Review the form’s privacy notice and contact details before submitting. Do not include passport, banking or other sensitive documents."
+    },
+    "ui": {
+      "discover": "Discover",
+      "back": "Back",
+      "allResidences": "All residences",
+      "requestPlans": "Request floor plans",
+      "requestPrice": "Request current prices",
+      "readGuide": "Read the investment guide",
+      "scroll": "Scroll to explore",
+      "rendering": "Developer rendering · for illustration",
+      "onRequest": "On request",
+      "studio": "Studio",
+      "oneBed": "1 bedroom",
+      "twoBed": "2 bedrooms + storeroom",
+      "sqm": "m²",
+      "formTitle": "Enquire about SAMANA South Haven 2",
+      "openForm": "Open enquiry form",
+      "closeForm": "Close enquiry form"
+    },
+    "alt": {
+      "hero": "Developer rendering of SAMANA South Haven 2 in Dubai South",
+      "architecture": "Contemporary façade and landscaped setting at SAMANA South Haven 2",
+      "pool": "Communal pool and outdoor leisure spaces at SAMANA South Haven 2",
+      "interior": "Developer rendering of a contemporary apartment interior",
+      "gym": "Rooftop fitness space shown in the project brochure",
+      "location": "Developer location map for SAMANA South Haven 2 in Dubai South",
+      "studio": "Studio floor plan from the developer brochure",
+      "oneBed": "One-bedroom floor plan from the developer brochure",
+      "twoBed": "Two-bedroom and storeroom floor plan from the developer brochure",
+      "logo": "SAMANA South Haven 2 logo"
+    },
+    "pricing": {
+      "title": "Prices, with perspective.",
+      "from": "From",
+      "floor": "Floor",
+      "range": "Price range",
+      "parkingStudio": "Studio parking allocation varies by unit; confirm before purchase.",
+      "parkingTwo": "One parking space included for the selected two-bedroom units.",
+      "communityView": "Community view",
+      "units": "Units",
+      "area": "Approximate area",
+      "usdNote": "USD amounts are indicative, calculated at AED 3.6725 per USD 1; bank fees and conversion spreads are excluded.",
+      "availabilityNote": "Prices and availability require current written confirmation.",
+      "sourceNote": "Indicative prices, updated 9 October 2026. Request a unit-specific quotation."
+    }
+  },
+  "fr": {
+    "lang": "fr",
+    "country": "France",
+    "seo": {
+      "title": "SAMANA South Haven 2 | Appartements à Dubai South",
+      "description": "Découvrez SAMANA South Haven 2 à Dubai South : studios, appartements de 1 et 2 chambres, loisirs et accompagnement de votre projet d’achat depuis la France."
+    },
+    "slugs": {
+      "home": "samana-south-haven-2-dubai-south",
+      "guide": "acheter-dubai-south-depuis-france",
+      "payment": "plan-de-paiement",
+      "residences": "appartements"
+    },
+    "nav": {
+      "project": "Le projet",
+      "residences": "Les résidences",
+      "lifestyle": "Art de vivre",
+      "location": "Le quartier",
+      "invest": "Investir",
+      "contact": "Nous contacter",
+      "language": "Langue",
+      "menu": "Ouvrir le menu",
+      "close": "Fermer le menu"
+    },
+    "hero": {
+      "eyebrow": "SAMANA SOUTH HAVEN 2 · DUBAI SOUTH",
+      "title": "Un nouvel horizon.\nUn autre rythme.",
+      "subtitle": "Des résidences contemporaines. Le plaisir de vivre comme en vacances. Découvrez une nouvelle façon d’habiter Dubai South.",
+      "cta": "Recevoir la brochure",
+      "secondary": "Découvrir les résidences"
+    },
+    "intro": {
+      "eyebrow": "01 / UN LIEU À SOI",
+      "title": "Plus d’espace\npour vivre pleinement.",
+      "text": "SAMANA South Haven 2 réunit studios, appartements d’une chambre et appartements de deux chambres avec débarras à Dubai South. Un lieu pensé autour du confort, des loisirs et des petits moments qui font le quotidien."
+    },
+    "architecture": {
+      "eyebrow": "02 / ARCHITECTURE",
+      "title": "Des lignes épurées.\nDes horizons ouverts.",
+      "text": "Une architecture contemporaine, des espaces paysagers et des intérieurs aux tons apaisants composent un cadre accueillant. Des agencements conçus pour les matins tranquilles, les soirées partagées et tous les instants entre les deux."
+    },
+    "amenities": {
+      "eyebrow": "03 / LE QUOTIDIEN AUTREMENT",
+      "title": "Vos journées.\nVotre tempo.",
+      "text": "Bouger, ralentir, travailler ou se retrouver. Les équipements annoncés par le promoteur invitent un esprit de villégiature dans la vie de tous les jours.",
+      "items": [
+        "Piscine pour adultes",
+        "Jacuzzi extérieur",
+        "Piscine et aire de jeux pour enfants",
+        "Salle de sport intérieure en rooftop",
+        "Hammam et sauna en rooftop",
+        "Espace de coworking avec cabines privatives",
+        "Cinéma en plein air",
+        "Terrain multisport",
+        "Salle de sport extérieure et piste de jogging",
+        "Salon de lecture et espaces paysagers"
+      ]
+    },
+    "location": {
+      "eyebrow": "04 / DUBAI SOUTH",
+      "title": "Le sud,\nun nouvel horizon.",
+      "text": "Découvrez une adresse à Dubai South, dans le prolongement du développement de Dubaï vers le sud, à proximité de destinations comme Expo City et l’aéroport international Al Maktoum.",
+      "note": "La brochure du promoteur annonce des trajets de 15 à 20 minutes vers les destinations citées. Ces durées indicatives varient selon l’itinéraire et la circulation.",
+      "landmarks": [
+        "Aéroport international Al Maktoum",
+        "Expo City",
+        "Dubai Marina",
+        "Ibn Battuta Mall",
+        "Dubai Investment Park",
+        "Jebel Ali"
+      ]
+    },
+    "residences": {
+      "eyebrow": "05 / TROUVER SA PLACE",
+      "title": "Une adresse.\nVotre façon d’habiter.",
+      "text": "Explorez les plans présentés dans la brochure du promoteur. Demandez la liste des lots disponibles, les surfaces exactes et les prestations avant de choisir.",
+      "items": [
+        {
+          "name": "Studio",
+          "description": "Un espace ouvert et fonctionnel pour un quotidien bien pensé.",
+          "slug": "studio"
+        },
+        {
+          "name": "Une chambre",
+          "description": "Un séjour et une chambre séparés, avec quatre types de plans présentés dans la brochure.",
+          "slug": "une-chambre"
+        },
+        {
+          "name": "Deux chambres + débarras",
+          "description": "De l’espace pour partager, s’installer et organiser le quotidien.",
+          "slug": "deux-chambres-debarras"
+        }
+      ],
+      "cta": "Recevoir les plans"
+    },
+    "payment": {
+      "eyebrow": "06 / VOTRE INVESTISSEMENT",
+      "title": "Un projet clair\ncommence par un échange.",
+      "text": "Consultez les prix fournis pour les studios et une sélection de deux chambres, puis demandez les disponibilités et l’échéancier du promoteur. Prix des appartements d’une chambre, modalités de paiement et livraison sur demande.",
+      "steps": [
+        "Choisir le type d’appartement souhaité",
+        "Examiner les disponibilités, le coût total et l’échéancier proposé",
+        "Vérifier les documents du projet et les conditions d’achat"
+      ],
+      "cta": "Recevoir les prix et modalités"
+    },
+    "visa": {
+      "eyebrow": "OPTIONS DE RÉSIDENCE",
+      "title": "Une adresse.\nUne perspective durable.",
+      "text": "Un investissement immobilier peut permettre de demander un titre de résidence aux Émirats arabes unis, selon le bien, la détention et les critères des autorités.",
+      "investor": "Visa investisseur : faites examiner le bien envisagé et votre situation de propriétaire. L’éligibilité doit être confirmée par l’autorité compétente.",
+      "golden": "Golden Visa : la voie immobilière exige généralement un investissement d’au moins 2 millions AED, sous réserve des justificatifs et de la validation des autorités.",
+      "note": "L’achat d’un appartement ne donne pas automatiquement droit à un visa. Les critères, les justificatifs et l’accord des autorités doivent être vérifiés pour votre dossier."
+    },
+    "guide": {
+      "eyebrow": "ACHETER DEPUIS LA FRANCE",
+      "title": "Votre projet à Dubai South,\ndepuis la France.",
+      "paragraphs": [
+        "Résidence secondaire, futur lieu de vie ou investissement locatif : partez de votre objectif. Pour comparer les appartements de SAMANA South Haven 2, étudiez le quartier, le plan, le coût total d’acquisition et les charges récurrentes. Aucun rendement locatif ni aucune plus-value ne sont garantis.",
+        "Avant un achat depuis la France, demandez les informations d’enregistrement du projet, le contrat de vente, l’échéancier actualisé et les instructions de paiement officielles. Faites vérifier les documents de façon indépendante et clarifiez les modalités de signature à distance, d’identification et de gestion du bien.",
+        "Votre résidence fiscale peut entraîner des obligations déclaratives ou fiscales en France concernant le bien, les loyers ou sa revente. Consultez un conseil en France et aux Émirats avant de vous engager. Intégrez aussi les frais de transfert et les variations de change entre l’euro et le dirham à votre budget."
+      ],
+      "cta": "Parlons de votre projet"
+    },
+    "faq": {
+      "eyebrow": "VOS QUESTIONS",
+      "title": "Un peu de clarté.\nAvant de vous lancer.",
+      "items": [
+        {
+          "q": "Où se trouve SAMANA South Haven 2 ?",
+          "a": "Le programme se situe à Dubai South. Les documents du promoteur citent notamment Expo City et l’aéroport international Al Maktoum parmi les destinations proches. Demandez la localisation exacte et vérifiez les trajets qui vous intéressent."
+        },
+        {
+          "q": "Quels appartements sont présentés ?",
+          "a": "La brochure fournie présente des studios, quatre types de plans d’une chambre et un appartement de deux chambres avec débarras. Les disponibilités, surfaces et prestations définitives doivent être confirmées pour chaque lot."
+        },
+        {
+          "q": "Quels sont les prix et le plan de paiement ?",
+          "a": "Les prix fournis commencent à 644 000 AED pour les studios et à 1 314 000 AED pour les deux chambres avec débarras sélectionnés. Disponibilités et conditions sont à confirmer. Prix des appartements d’une chambre, échéancier et livraison sur demande."
+        },
+        {
+          "q": "Puis-je préparer mon achat depuis la France ?",
+          "a": "Oui. Indiquez votre pays, le type d’appartement souhaité et votre budget dans le formulaire. Demandez ensuite les modalités de visite à distance, de vérification documentaire et de signature adaptées à votre situation."
+        },
+        {
+          "q": "L’achat ouvre-t-il droit à un visa investisseur ou au Golden Visa ?",
+          "a": "Un bien immobilier peut appuyer une demande de résidence sous réserve des critères en vigueur et de l’accord des autorités. La voie immobilière du Golden Visa exige généralement au moins 2 millions AED. L’achat seul ne garantit ni éligibilité ni délivrance."
+        },
+        {
+          "q": "Les revenus locatifs sont-ils garantis ?",
+          "a": "Ce site n’annonce aucun rendement garanti. Évaluez les loyers réalisables, le taux d’occupation, les charges, les frais de gestion et les conditions de marché à partir de données indépendantes et récentes."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "VOTRE PROCHAIN CHAPITRE",
+      "title": "Cap\nsur le sud.",
+      "text": "Recevez la brochure, découvrez les disponibilités actuelles et trouvez la résidence qui correspond à votre projet.",
+      "cta": "Parler de mon projet",
+      "reassurance": "Vos coordonnées servent à répondre à votre demande immobilière.",
+      "missingForm": "Le formulaire est en cours de connexion. Merci de revenir prochainement."
+    },
+    "footer": {
+      "description": "Résidences contemporaines et esprit de villégiature à Dubai South.",
+      "explore": "Découvrir",
+      "investment": "Investissement",
+      "legal": "Informations",
+      "privacy": "Confidentialité",
+      "disclaimer": "Informations sur le projet",
+      "copyright": "Tous droits réservés.",
+      "sources": "Sources",
+      "visaSource": "Informations officielles du Dubai Land Department sur la résidence",
+      "brochureSource": "Brochures du promoteur fournies pour ce projet",
+      "disclaimerText": "Ces informations sont données à titre indicatif. Les images sont des rendus du promoteur. Disponibilités, prestations, prix, conditions de paiement et date de livraison nécessitent une confirmation écrite. Ce site ne fournit pas de conseil financier, fiscal ou en immigration.",
+      "privacyText": "Le formulaire recueille les informations que vous choisissez de transmettre afin que son destinataire réponde à votre demande immobilière. Consultez ses mentions de confidentialité et ses coordonnées avant l’envoi. Ne transmettez ni passeport, ni documents bancaires, ni autres pièces sensibles."
+    },
+    "ui": {
+      "discover": "Découvrir",
+      "back": "Retour",
+      "allResidences": "Toutes les résidences",
+      "requestPlans": "Demander les plans",
+      "requestPrice": "Demander les prix actuels",
+      "readGuide": "Lire le guide d’investissement",
+      "scroll": "Défiler pour découvrir",
+      "rendering": "Rendu du promoteur · illustration",
+      "onRequest": "Sur demande",
+      "studio": "Studio",
+      "oneBed": "1 chambre",
+      "twoBed": "2 chambres + débarras",
+      "sqm": "m²",
+      "formTitle": "Votre demande pour SAMANA South Haven 2",
+      "openForm": "Ouvrir le formulaire",
+      "closeForm": "Fermer le formulaire"
+    },
+    "alt": {
+      "hero": "Rendu du promoteur de SAMANA South Haven 2 à Dubai South",
+      "architecture": "Façade contemporaine et espaces paysagers de SAMANA South Haven 2",
+      "pool": "Piscine collective et espaces de loisirs de SAMANA South Haven 2",
+      "interior": "Rendu du promoteur d’un intérieur d’appartement contemporain",
+      "gym": "Espace de fitness en rooftop présenté dans la brochure",
+      "location": "Plan de situation du promoteur à Dubai South",
+      "studio": "Plan d’un studio extrait de la brochure du promoteur",
+      "oneBed": "Plan d’un appartement d’une chambre extrait de la brochure",
+      "twoBed": "Plan d’un appartement de deux chambres avec débarras",
+      "logo": "Logo SAMANA South Haven 2"
+    },
+    "pricing": {
+      "title": "Les prix, en toute clarté.",
+      "from": "À partir de",
+      "floor": "Étage",
+      "range": "Fourchette de prix",
+      "parkingStudio": "Le stationnement des studios varie selon le lot ; à confirmer avant l’achat.",
+      "parkingTwo": "Une place de parking incluse pour les deux chambres sélectionnés.",
+      "communityView": "Vue sur la résidence",
+      "units": "Lots",
+      "area": "Surface approximative",
+      "usdNote": "Montants en USD indicatifs, calculés à 3,6725 AED pour 1 USD, hors frais bancaires et marge de conversion.",
+      "availabilityNote": "Prix et disponibilités soumis à confirmation écrite actualisée.",
+      "sourceNote": "Prix indicatifs mis à jour le 9 octobre 2026. Demandez un devis pour le lot choisi."
+    }
+  },
+  "es": {
+    "lang": "es",
+    "country": "España",
+    "seo": {
+      "title": "SAMANA South Haven 2 | Comprar en Dubai South",
+      "description": "Descubre SAMANA South Haven 2 en Dubai South: estudios, apartamentos de 1 y 2 dormitorios y zonas de ocio. Prepara tu compra desde España."
+    },
+    "slugs": {
+      "home": "samana-south-haven-2-dubai-south",
+      "guide": "comprar-dubai-south-desde-espana",
+      "payment": "plan-de-pagos",
+      "residences": "apartamentos"
+    },
+    "nav": {
+      "project": "El proyecto",
+      "residences": "Residencias",
+      "lifestyle": "Estilo de vida",
+      "location": "Ubicación",
+      "invest": "Invertir",
+      "contact": "Consultar",
+      "language": "Idioma",
+      "menu": "Abrir menú",
+      "close": "Cerrar menú"
+    },
+    "hero": {
+      "eyebrow": "SAMANA SOUTH HAVEN 2 · DUBAI SOUTH",
+      "title": "Un nuevo horizonte.\nOtro ritmo.",
+      "subtitle": "Residencias contemporáneas. Días con espíritu de vacaciones. Descubre otra forma de vivir en Dubai South.",
+      "cta": "Recibir el folleto",
+      "secondary": "Explorar las residencias"
+    },
+    "intro": {
+      "eyebrow": "01 / UN LUGAR PROPIO",
+      "title": "Más espacio\npara vivir bien.",
+      "text": "SAMANA South Haven 2 reúne estudios, apartamentos de un dormitorio y viviendas de dos dormitorios con trastero en Dubai South. Una comunidad pensada para el confort, el ocio y los pequeños momentos que hacen un hogar."
+    },
+    "architecture": {
+      "eyebrow": "02 / ARQUITECTURA",
+      "title": "Líneas puras.\nNuevas posibilidades.",
+      "text": "Detalles contemporáneos, zonas ajardinadas e interiores de tonos serenos crean un entorno acogedor. Distribuciones pensadas para mañanas tranquilas, noches compartidas y todo lo que ocurre entre ellas."
+    },
+    "amenities": {
+      "eyebrow": "03 / OTRA FORMA DE VIVIR",
+      "title": "Tus días.\nTu ritmo.",
+      "text": "Moverte, descansar, trabajar o compartir. Las instalaciones anunciadas por el promotor aportan un aire vacacional a la vida cotidiana.",
+      "items": [
+        "Piscina para adultos",
+        "Jacuzzi exterior",
+        "Piscina y zona de juegos infantil",
+        "Gimnasio interior en la azotea",
+        "Baño de vapor y sauna en la azotea",
+        "Espacio de coworking con cabinas privadas",
+        "Cine al aire libre",
+        "Pista polideportiva",
+        "Gimnasio exterior y circuito de jogging",
+        "Sala de lectura y zonas ajardinadas"
+      ]
+    },
+    "location": {
+      "eyebrow": "04 / DUBAI SOUTH",
+      "title": "Mirando\nhacia el sur.",
+      "text": "Descubre una vivienda en Dubai South, en el corredor sur de Dubái, cerca de destinos como Expo City y el aeropuerto internacional Al Maktoum.",
+      "note": "El folleto del promotor indica trayectos de 15–20 minutos a los destinos enumerados. Son tiempos orientativos que dependen del tráfico y de la ruta.",
+      "landmarks": [
+        "Aeropuerto internacional Al Maktoum",
+        "Expo City",
+        "Dubai Marina",
+        "Ibn Battuta Mall",
+        "Dubai Investment Park",
+        "Jebel Ali"
+      ]
+    },
+    "residences": {
+      "eyebrow": "05 / ENCUENTRA TU ESPACIO",
+      "title": "Una dirección.\nTu manera de vivir.",
+      "text": "Explora las distribuciones incluidas en el folleto del promotor. Solicita las unidades disponibles, las superficies exactas y las especificaciones antes de elegir.",
+      "items": [
+        {
+          "name": "Estudio",
+          "description": "Un espacio abierto y funcional para un día a día bien pensado.",
+          "slug": "estudio"
+        },
+        {
+          "name": "Un dormitorio",
+          "description": "Salón y dormitorio independientes, con cuatro tipos de distribución en el folleto.",
+          "slug": "un-dormitorio"
+        },
+        {
+          "name": "Dos dormitorios + trastero",
+          "description": "Más espacio para compartir, instalarte y organizar la vida diaria.",
+          "slug": "dos-dormitorios-trastero"
+        }
+      ],
+      "cta": "Recibir los planos"
+    },
+    "payment": {
+      "eyebrow": "06 / TU INVERSIÓN",
+      "title": "Un plan claro\nempieza con una conversación.",
+      "text": "Consulta la disponibilidad y solicita las condiciones de pago actualizadas. Confirma por escrito el precio de la unidad elegida, todos los gastos y la fecha de entrega.",
+      "steps": [
+        "Elegir el tipo de vivienda",
+        "Revisar disponibilidad, coste total y calendario propuesto",
+        "Verificar la documentación y las condiciones de compra"
+      ],
+      "cta": "Solicitar precios y condiciones"
+    },
+    "visa": {
+      "eyebrow": "OPCIONES DE RESIDENCIA",
+      "title": "Un hogar.\nUn horizonte más amplio.",
+      "text": "Una inversión inmobiliaria puede permitir solicitar la residencia en Emiratos Árabes Unidos, según el inmueble, la titularidad y los requisitos vigentes.",
+      "investor": "Visado de inversor: solicita una evaluación del inmueble y de tu situación como propietario. La autoridad competente debe confirmar la elegibilidad.",
+      "golden": "Golden Visa: la vía inmobiliaria suele exigir una inversión mínima de 2 millones AED, sujeta a documentación y aprobación de las autoridades.",
+      "note": "Comprar una vivienda no concede automáticamente un visado. Los requisitos, documentos y aprobación deben verificarse para cada caso."
+    },
+    "guide": {
+      "eyebrow": "COMPRAR DESDE ESPAÑA",
+      "title": "Tu compra en Dubai South,\ndesde España.",
+      "paragraphs": [
+        "Empieza por definir tu objetivo: segunda residencia, futuro hogar o inversión para alquilar. Compara la ubicación, la distribución, el coste total de compra y los gastos recurrentes de SAMANA South Haven 2. No se garantiza rentabilidad ni revalorización.",
+        "Para comprar desde España, solicita los datos de registro del proyecto, el contrato de compraventa, el calendario de pagos actualizado y las instrucciones oficiales de pago. Recurre a una revisión independiente y aclara cómo se realizarían la identificación, la firma a distancia y la gestión de la vivienda.",
+        "Tu residencia fiscal puede implicar obligaciones de información o tributación en España sobre el inmueble, el alquiler o una futura venta. Consulta a asesores en España y en Emiratos antes de comprometerte. Incluye también los costes de transferencia y las variaciones entre el euro y el dírham en tu presupuesto."
+      ],
+      "cta": "Hablar de mi inversión"
+    },
+    "faq": {
+      "eyebrow": "TUS PREGUNTAS",
+      "title": "Más claridad.\nAntes del siguiente paso.",
+      "items": [
+        {
+          "q": "¿Dónde está SAMANA South Haven 2?",
+          "a": "El proyecto está en Dubai South. La documentación del promotor menciona destinos próximos como Expo City y el aeropuerto internacional Al Maktoum. Solicita la ubicación exacta y comprueba tus trayectos habituales."
+        },
+        {
+          "q": "¿Qué tipos de vivienda se presentan?",
+          "a": "El folleto incluye estudios, cuatro distribuciones de un dormitorio y una vivienda de dos dormitorios con trastero. Confirma disponibilidad, superficie y especificaciones finales de la unidad elegida."
+        },
+        {
+          "q": "¿Cuáles son los precios y el plan de pagos?",
+          "a": "Los precios facilitados parten de 644.000 AED para estudios y de 1.314.000 AED para las viviendas de dos dormitorios con trastero seleccionadas. La disponibilidad y las condiciones requieren confirmación. Los precios de un dormitorio, el calendario de pagos y la entrega se facilitan bajo consulta."
+        },
+        {
+          "q": "¿Puedo preparar la compra desde España?",
+          "a": "Sí. Indica tu país, tipo de vivienda y presupuesto en el formulario. Consulta cómo organizar visitas a distancia, revisión de documentos y firma según tu situación."
+        },
+        {
+          "q": "¿La compra permite obtener un visado de inversor o una Golden Visa?",
+          "a": "La propiedad puede respaldar una solicitud de residencia, sujeta a los requisitos vigentes y a aprobación. La vía inmobiliaria de la Golden Visa suele exigir al menos 2 millones AED. Comprar una unidad no garantiza elegibilidad ni concesión."
+        },
+        {
+          "q": "¿Se garantizan los ingresos por alquiler?",
+          "a": "Esta web no ofrece una rentabilidad garantizada. Analiza alquileres alcanzables, ocupación, gastos comunitarios, gestión y condiciones de mercado con información independiente y actualizada."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "TU PRÓXIMO CAPÍTULO",
+      "title": "Encuentra\ntu sur.",
+      "text": "Recibe el folleto, consulta la disponibilidad actual y descubre la residencia que encaja con tus planes.",
+      "cta": "Iniciar mi consulta",
+      "reassurance": "Tus datos se utilizan para responder a tu consulta inmobiliaria.",
+      "missingForm": "Estamos conectando el formulario. Vuelve a visitarnos en breve."
+    },
+    "footer": {
+      "description": "Residencias contemporáneas y vida con espíritu vacacional en Dubai South.",
+      "explore": "Explorar",
+      "investment": "Inversión",
+      "legal": "Información",
+      "privacy": "Privacidad",
+      "disclaimer": "Información del proyecto",
+      "copyright": "Todos los derechos reservados.",
+      "sources": "Fuentes",
+      "visaSource": "Información oficial del Dubai Land Department sobre residencia",
+      "brochureSource": "Folletos del promotor facilitados para este proyecto",
+      "disclaimerText": "Información orientativa. Las imágenes son representaciones del promotor. La disponibilidad, las especificaciones, los precios, los pagos y la entrega requieren confirmación escrita. Esta web no presta asesoramiento financiero, fiscal ni migratorio.",
+      "privacyText": "El formulario recoge los datos que decides enviar para que su destinatario responda a tu consulta inmobiliaria. Revisa su política de privacidad y sus datos de contacto antes de enviarlo. No adjuntes pasaportes, documentos bancarios ni otros documentos sensibles."
+    },
+    "ui": {
+      "discover": "Descubrir",
+      "back": "Volver",
+      "allResidences": "Todas las residencias",
+      "requestPlans": "Solicitar planos",
+      "requestPrice": "Consultar precios actuales",
+      "readGuide": "Leer la guía de inversión",
+      "scroll": "Desliza para descubrir",
+      "rendering": "Imagen del promotor · ilustrativa",
+      "onRequest": "Bajo consulta",
+      "studio": "Estudio",
+      "oneBed": "1 dormitorio",
+      "twoBed": "2 dormitorios + trastero",
+      "sqm": "m²",
+      "formTitle": "Consulta sobre SAMANA South Haven 2",
+      "openForm": "Abrir formulario",
+      "closeForm": "Cerrar formulario"
+    },
+    "alt": {
+      "hero": "Representación de SAMANA South Haven 2 en Dubai South",
+      "architecture": "Fachada contemporánea y jardines de SAMANA South Haven 2",
+      "pool": "Piscina comunitaria y zonas de ocio de SAMANA South Haven 2",
+      "interior": "Representación del interior de un apartamento contemporáneo",
+      "gym": "Gimnasio en la azotea mostrado en el folleto",
+      "location": "Mapa de ubicación del promotor en Dubai South",
+      "studio": "Plano de un estudio del folleto del promotor",
+      "oneBed": "Plano de un apartamento de un dormitorio",
+      "twoBed": "Plano de dos dormitorios con trastero",
+      "logo": "Logotipo de SAMANA South Haven 2"
+    },
+    "pricing": {
+      "title": "Precios con claridad.",
+      "from": "Desde",
+      "floor": "Planta",
+      "range": "Rango de precios",
+      "parkingStudio": "El aparcamiento de los estudios varía según la unidad; confírmalo antes de comprar.",
+      "parkingTwo": "Una plaza de aparcamiento incluida en las viviendas de dos dormitorios seleccionadas.",
+      "communityView": "Vistas a la comunidad",
+      "units": "Unidades",
+      "area": "Superficie aproximada",
+      "usdNote": "Importes en USD orientativos, calculados a 3,6725 AED por 1 USD; no incluyen comisiones bancarias ni márgenes de cambio.",
+      "availabilityNote": "Precios y disponibilidad sujetos a confirmación escrita actualizada.",
+      "sourceNote": "Precios orientativos actualizados el 9 de octubre de 2026. Solicita un presupuesto para la unidad elegida."
+    }
+  },
+  "nl": {
+    "lang": "nl",
+    "country": "Nederland",
+    "seo": {
+      "title": "SAMANA South Haven 2 | Appartementen in Dubai South",
+      "description": "Ontdek SAMANA South Haven 2 in Dubai South: studio’s, appartementen met 1 of 2 slaapkamers en uitgebreide voorzieningen. Bereid uw aankoop vanuit Nederland voor."
+    },
+    "slugs": {
+      "home": "samana-south-haven-2-dubai-south",
+      "guide": "kopen-dubai-south-vanuit-nederland",
+      "payment": "betalingsplan",
+      "residences": "appartementen"
+    },
+    "nav": {
+      "project": "Het project",
+      "residences": "Woningen",
+      "lifestyle": "Leefstijl",
+      "location": "Locatie",
+      "invest": "Investeren",
+      "contact": "Informatie aanvragen",
+      "language": "Taal",
+      "menu": "Menu openen",
+      "close": "Menu sluiten"
+    },
+    "hero": {
+      "eyebrow": "SAMANA SOUTH HAVEN 2 · DUBAI SOUTH",
+      "title": "Een nieuwe richting.\nEen ander ritme.",
+      "subtitle": "Eigentijdse woningen. Elke dag een vakantiegevoel. Ontdek een ontspannen manier van wonen in Dubai South.",
+      "cta": "Brochure ontvangen",
+      "secondary": "Bekijk de woningen"
+    },
+    "intro": {
+      "eyebrow": "01 / EEN EIGEN PLEK",
+      "title": "Meer ruimte\nom goed te leven.",
+      "text": "SAMANA South Haven 2 biedt studio’s, appartementen met één slaapkamer en woningen met twee slaapkamers en een berging in Dubai South. Een woonomgeving voor comfort, ontspanning en de kleine momenten die een huis tot thuis maken."
+    },
+    "architecture": {
+      "eyebrow": "02 / ARCHITECTUUR",
+      "title": "Heldere lijnen.\nOpen mogelijkheden.",
+      "text": "Eigentijdse details, groen ingerichte buitenruimtes en rustige interieurkleuren zorgen voor een uitnodigende sfeer. Doordachte indelingen bieden ruimte voor ontspannen ochtenden, gezamenlijke avonden en alles daartussenin."
+    },
+    "amenities": {
+      "eyebrow": "03 / ELKE DAG ANDERS",
+      "title": "Uw dag.\nUw ritme.",
+      "text": "Bewegen, ontspannen, werken of samenkomen. De voorzieningen uit de projectdocumentatie geven het dagelijks leven het gevoel van een resort.",
+      "items": [
+        "Zwembad voor volwassenen",
+        "Jacuzzi buiten",
+        "Kinderzwembad en speelruimte",
+        "Overdekte fitnessruimte op het dak",
+        "Stoombad en sauna op het dak",
+        "Coworkingruimte met privécabines",
+        "Openluchtbioscoop",
+        "Multifunctioneel sportveld",
+        "Fitnessruimte buiten en hardlooproute",
+        "Leesruimte en zitplekken in het groen"
+      ]
+    },
+    "location": {
+      "eyebrow": "04 / DUBAI SOUTH",
+      "title": "Een blik\nop het zuiden.",
+      "text": "Ontdek een woning in Dubai South, in het zich ontwikkelende zuiden van Dubai, nabij bestemmingen zoals Expo City en Al Maktoum International Airport.",
+      "note": "De ontwikkelaarsbrochure noemt reistijden van 15–20 minuten naar de genoemde bestemmingen. Dit zijn indicaties, afhankelijk van route en verkeer.",
+      "landmarks": [
+        "Al Maktoum International Airport",
+        "Expo City",
+        "Dubai Marina",
+        "Ibn Battuta Mall",
+        "Dubai Investment Park",
+        "Jebel Ali"
+      ]
+    },
+    "residences": {
+      "eyebrow": "05 / VIND UW RUIMTE",
+      "title": "Eén adres.\nUw manier van wonen.",
+      "text": "Bekijk de plattegronden uit de brochure. Vraag vóór uw keuze naar beschikbare woningen, exacte oppervlaktes en definitieve specificaties.",
+      "items": [
+        {
+          "name": "Studio",
+          "description": "Een efficiënte, open ruimte voor een doordacht dagelijks leven.",
+          "slug": "studio"
+        },
+        {
+          "name": "Eén slaapkamer",
+          "description": "Aparte woon- en slaapruimtes, met vier indelingstypes in de brochure.",
+          "slug": "een-slaapkamer"
+        },
+        {
+          "name": "Twee slaapkamers + berging",
+          "description": "Meer ruimte om samen te wonen, tot rust te komen en alles een plek te geven.",
+          "slug": "twee-slaapkamers-berging"
+        }
+      ],
+      "cta": "Plattegronden ontvangen"
+    },
+    "payment": {
+      "eyebrow": "06 / UW INVESTERING",
+      "title": "Een helder plan\nbegint met een gesprek.",
+      "text": "Vraag naar actuele beschikbaarheid en betalingsvoorwaarden. Laat de prijs van uw woning, alle kosten en de opleverdatum schriftelijk bevestigen.",
+      "steps": [
+        "Kies uw gewenste woningtype",
+        "Beoordeel beschikbaarheid, totale kosten en voorgestelde termijnen",
+        "Controleer projectdocumenten en aankoopvoorwaarden"
+      ],
+      "cta": "Prijzen en betalingsplan aanvragen"
+    },
+    "visa": {
+      "eyebrow": "VERBLIJFSMOGELIJKHEDEN",
+      "title": "Een woning.\nEen ruimere toekomst.",
+      "text": "Vastgoed kan een aanvraag voor verblijf in de Verenigde Arabische Emiraten ondersteunen, afhankelijk van het object, de eigendomsverhouding en actuele vereisten.",
+      "investor": "Investeerdersverblijf: laat uw gekozen woning en eigendomssituatie beoordelen. De bevoegde instantie moet uw geschiktheid bevestigen.",
+      "golden": "Golden Visa: voor de vastgoedroute geldt doorgaans een minimale investering van AED 2 miljoen, onder voorbehoud van bewijsstukken en beoordeling door de autoriteiten.",
+      "note": "De aankoop van een woning levert niet automatisch een visum op. Voorwaarden, documenten en goedkeuring moeten per situatie worden gecontroleerd."
+    },
+    "guide": {
+      "eyebrow": "KOPEN VANUIT NEDERLAND",
+      "title": "Uw aankoop in Dubai South,\nvanuit Nederland.",
+      "paragraphs": [
+        "Begin met uw doel: een tweede woning, een toekomstige woonplek of verhuur. Vergelijk bij SAMANA South Haven 2 de ligging, indeling, totale aankoopkosten en terugkerende lasten. Huurinkomsten en waardestijging zijn niet gegarandeerd.",
+        "Vraag bij een aankoop vanuit Nederland naar de projectregistratie, koopovereenkomst, actuele betaaltermijnen en officiële betaalinstructies. Laat de stukken onafhankelijk beoordelen en bespreek hoe identificatie, ondertekening op afstand en eventueel woningbeheer in uw situatie werken.",
+        "Uw fiscale woonplaats kan Nederlandse aangifte- of belastingverplichtingen met zich meebrengen voor buitenlands vastgoed, huurinkomsten of een latere verkoop. Vraag advies in Nederland en in de Emiraten voordat u zich vastlegt. Houd ook rekening met overboekingskosten en wisselkoersbewegingen tussen euro en dirham."
+      ],
+      "cta": "Bespreek uw investering"
+    },
+    "faq": {
+      "eyebrow": "UW VRAGEN",
+      "title": "Meer duidelijkheid.\nVoor uw volgende stap.",
+      "items": [
+        {
+          "q": "Waar ligt SAMANA South Haven 2?",
+          "a": "Het project ligt in Dubai South. De ontwikkelaar noemt onder meer Expo City en Al Maktoum International Airport als nabijgelegen bestemmingen. Vraag de exacte locatie op en controleer uw belangrijkste routes."
+        },
+        {
+          "q": "Welke woningtypes zijn er?",
+          "a": "De brochure toont studio’s, vier indelingstypes met één slaapkamer en een woning met twee slaapkamers en berging. Laat beschikbaarheid, oppervlaktes en definitieve specificaties per woning bevestigen."
+        },
+        {
+          "q": "Wat zijn de prijzen en betalingsvoorwaarden?",
+          "a": "De aangeleverde prijzen beginnen bij AED 644.000 voor studio’s en AED 1.314.000 voor de geselecteerde woningen met twee slaapkamers en berging. Beschikbaarheid en voorwaarden moeten worden bevestigd. Prijzen voor één slaapkamer, betaaltermijnen en oplevering zijn op aanvraag."
+        },
+        {
+          "q": "Kan ik vanuit Nederland een aankoop voorbereiden?",
+          "a": "Ja. Vermeld uw land, gewenste woningtype en budget in het formulier. Vraag hoe bezichtiging op afstand, documentcontrole en ondertekening in uw situatie kunnen verlopen."
+        },
+        {
+          "q": "Geeft de aankoop recht op een investeerdersvisum of Golden Visa?",
+          "a": "Vastgoed kan een verblijfsaanvraag ondersteunen, onder voorbehoud van actuele vereisten en goedkeuring. Voor de vastgoedroute van het Golden Visa is doorgaans minimaal AED 2 miljoen nodig. Eén aankoop garandeert geen geschiktheid of visum."
+        },
+        {
+          "q": "Zijn huurinkomsten gegarandeerd?",
+          "a": "Deze website vermeldt geen gegarandeerd rendement. Beoordeel haalbare huren, bezetting, servicekosten, beheer en marktomstandigheden op basis van actuele, onafhankelijke informatie."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "UW VOLGENDE HOOFDSTUK",
+      "title": "Vind\nuw zuiden.",
+      "text": "Ontvang de brochure, vraag naar actuele beschikbaarheid en ontdek welke woning bij uw plannen past.",
+      "cta": "Informatie aanvragen",
+      "reassurance": "Uw gegevens worden gebruikt om uw vastgoedaanvraag te beantwoorden.",
+      "missingForm": "Het formulier wordt gekoppeld. Kom binnenkort terug."
+    },
+    "footer": {
+      "description": "Eigentijdse woningen met een vakantiegevoel in Dubai South.",
+      "explore": "Ontdekken",
+      "investment": "Investering",
+      "legal": "Informatie",
+      "privacy": "Privacy",
+      "disclaimer": "Projectinformatie",
+      "copyright": "Alle rechten voorbehouden.",
+      "sources": "Bronnen",
+      "visaSource": "Officiële verblijfsinformatie van Dubai Land Department",
+      "brochureSource": "Voor dit project aangeleverde ontwikkelaarsbrochures",
+      "disclaimerText": "Informatie ter algemene oriëntatie. Afbeeldingen zijn visualisaties van de ontwikkelaar. Beschikbaarheid, specificaties, prijzen, betaalvoorwaarden en oplevering vereisen schriftelijke bevestiging. Deze website geeft geen financieel, fiscaal of immigratieadvies.",
+      "privacyText": "Het formulier verzamelt de gegevens die u zelf verstuurt, zodat de ontvanger uw vastgoedaanvraag kan beantwoorden. Lees vóór verzending de privacyinformatie en contactgegevens bij het formulier. Stuur geen paspoort, bankdocumenten of andere gevoelige stukken mee."
+    },
+    "ui": {
+      "discover": "Ontdekken",
+      "back": "Terug",
+      "allResidences": "Alle woningen",
+      "requestPlans": "Plattegronden aanvragen",
+      "requestPrice": "Actuele prijzen aanvragen",
+      "readGuide": "Lees de investeringsgids",
+      "scroll": "Scroll om te ontdekken",
+      "rendering": "Visualisatie van de ontwikkelaar · ter illustratie",
+      "onRequest": "Op aanvraag",
+      "studio": "Studio",
+      "oneBed": "1 slaapkamer",
+      "twoBed": "2 slaapkamers + berging",
+      "sqm": "m²",
+      "formTitle": "Aanvraag voor SAMANA South Haven 2",
+      "openForm": "Formulier openen",
+      "closeForm": "Formulier sluiten"
+    },
+    "alt": {
+      "hero": "Visualisatie van SAMANA South Haven 2 in Dubai South",
+      "architecture": "Eigentijdse gevel en groen bij SAMANA South Haven 2",
+      "pool": "Gemeenschappelijk zwembad en ontspanningsruimtes",
+      "interior": "Visualisatie van een eigentijds appartementinterieur",
+      "gym": "Fitnessruimte op het dak uit de brochure",
+      "location": "Locatiekaart van de ontwikkelaar voor Dubai South",
+      "studio": "Studioplattegrond uit de ontwikkelaarsbrochure",
+      "oneBed": "Plattegrond van een appartement met één slaapkamer",
+      "twoBed": "Plattegrond met twee slaapkamers en berging",
+      "logo": "Logo van SAMANA South Haven 2"
+    },
+    "pricing": {
+      "title": "Prijzen, helder bekeken.",
+      "from": "Vanaf",
+      "floor": "Verdieping",
+      "range": "Prijsbereik",
+      "parkingStudio": "Parkeergelegenheid voor studio’s verschilt per woning; controleer dit vóór aankoop.",
+      "parkingTwo": "Eén parkeerplaats inbegrepen bij de geselecteerde woningen met twee slaapkamers.",
+      "communityView": "Uitzicht op de woonomgeving",
+      "units": "Woningen",
+      "area": "Oppervlakte bij benadering",
+      "usdNote": "USD-bedragen zijn indicatief, berekend op basis van AED 3,6725 per USD 1, exclusief bankkosten en wisselkoersmarges.",
+      "availabilityNote": "Prijzen en beschikbaarheid vereisen een actuele schriftelijke bevestiging.",
+      "sourceNote": "Indicatieve prijzen, bijgewerkt op 9 oktober 2026. Vraag een offerte voor de gekozen woning."
+    }
+  },
+  "de": {
+    "lang": "de",
+    "country": "Deutschland",
+    "seo": {
+      "title": "SAMANA South Haven 2 | Wohnungen in Dubai South",
+      "description": "Entdecken Sie SAMANA South Haven 2 in Dubai South: Studios, Wohnungen mit 1 oder 2 Schlafzimmern und vielfältige Freizeiteinrichtungen. Kauf aus Deutschland."
+    },
+    "slugs": {
+      "home": "samana-south-haven-2-dubai-south",
+      "guide": "immobilie-dubai-south-aus-deutschland-kaufen",
+      "payment": "zahlungsplan",
+      "residences": "wohnungen"
+    },
+    "nav": {
+      "project": "Das Projekt",
+      "residences": "Wohnungen",
+      "lifestyle": "Lebensgefühl",
+      "location": "Lage",
+      "invest": "Investieren",
+      "contact": "Anfragen",
+      "language": "Sprache",
+      "menu": "Menü öffnen",
+      "close": "Menü schließen"
+    },
+    "hero": {
+      "eyebrow": "SAMANA SOUTH HAVEN 2 · DUBAI SOUTH",
+      "title": "Eine neue Richtung.\nEin anderer Rhythmus.",
+      "subtitle": "Zeitgemäße Wohnungen. Ein Alltag mit Urlaubsgefühl. Entdecken Sie eine entspannte Art zu wohnen in Dubai South.",
+      "cta": "Broschüre erhalten",
+      "secondary": "Wohnungen entdecken"
+    },
+    "intro": {
+      "eyebrow": "01 / EIN EIGENER ORT",
+      "title": "Mehr Raum,\num gut zu leben.",
+      "text": "SAMANA South Haven 2 vereint Studios, Wohnungen mit einem Schlafzimmer sowie Wohnungen mit zwei Schlafzimmern und Abstellraum in Dubai South. Ein Wohnumfeld für Komfort, Freizeit und die kleinen Momente, die ein Zuhause ausmachen."
+    },
+    "architecture": {
+      "eyebrow": "02 / ARCHITEKTUR",
+      "title": "Klare Linien.\nOffene Möglichkeiten.",
+      "text": "Zeitgemäße Details, begrünte Außenbereiche und ruhige Innenraumfarben schaffen ein einladendes Umfeld. Durchdachte Grundrisse bieten Platz für entspannte Morgen, gemeinsame Abende und alles dazwischen."
+    },
+    "amenities": {
+      "eyebrow": "03 / DEN ALLTAG NEU ENTDECKEN",
+      "title": "Ihr Tag.\nIhr Rhythmus.",
+      "text": "Bewegen, entspannen, arbeiten oder zusammenkommen. Die vom Bauträger beschriebenen Einrichtungen verbinden den Alltag mit dem Lebensgefühl eines Resorts.",
+      "items": [
+        "Schwimmbecken für Erwachsene",
+        "Whirlpool im Freien",
+        "Kinderbecken und Spielbereich",
+        "Fitnessstudio auf dem Dach",
+        "Dampfbad und Sauna auf dem Dach",
+        "Coworking-Bereich mit privaten Kabinen",
+        "Freiluftkino",
+        "Mehrzwecksportplatz",
+        "Fitnessbereich im Freien und Joggingstrecke",
+        "Leselounge und begrünte Sitzbereiche"
+      ]
+    },
+    "location": {
+      "eyebrow": "04 / DUBAI SOUTH",
+      "title": "Der Blick\nnach Süden.",
+      "text": "Entdecken Sie ein Zuhause in Dubai South, im sich entwickelnden Süden Dubais und nahe Zielen wie Expo City und dem Al Maktoum International Airport.",
+      "note": "Die Bauträgerbroschüre nennt Fahrzeiten von 15–20 Minuten zu den aufgeführten Zielen. Diese Richtwerte hängen von Route und Verkehr ab.",
+      "landmarks": [
+        "Al Maktoum International Airport",
+        "Expo City",
+        "Dubai Marina",
+        "Ibn Battuta Mall",
+        "Dubai Investment Park",
+        "Jebel Ali"
+      ]
+    },
+    "residences": {
+      "eyebrow": "05 / FINDEN SIE IHREN RAUM",
+      "title": "Eine Adresse.\nIhre Art zu wohnen.",
+      "text": "Entdecken Sie die Grundrisse aus der Bauträgerbroschüre. Fragen Sie vor Ihrer Auswahl nach verfügbaren Einheiten, genauen Flächen und verbindlichen Ausstattungsangaben.",
+      "items": [
+        {
+          "name": "Studio",
+          "description": "Ein effizienter, offener Raum für einen durchdachten Alltag.",
+          "slug": "studio"
+        },
+        {
+          "name": "Ein Schlafzimmer",
+          "description": "Getrennte Wohn- und Schlafbereiche; die Broschüre zeigt vier Grundrisstypen.",
+          "slug": "ein-schlafzimmer"
+        },
+        {
+          "name": "Zwei Schlafzimmer + Abstellraum",
+          "description": "Mehr Platz für gemeinsames Wohnen, entspanntes Ankommen und einen geordneten Alltag.",
+          "slug": "zwei-schlafzimmer-abstellraum"
+        }
+      ],
+      "cta": "Grundrisse erhalten"
+    },
+    "payment": {
+      "eyebrow": "06 / IHRE INVESTITION",
+      "title": "Ein klarer Plan\nbeginnt mit einem Gespräch.",
+      "text": "Fragen Sie nach aktueller Verfügbarkeit und Zahlungsbedingungen. Lassen Sie den Preis Ihrer Einheit, sämtliche Kosten und den Übergabetermin schriftlich bestätigen.",
+      "steps": [
+        "Gewünschten Wohnungstyp auswählen",
+        "Verfügbarkeit, Gesamtkosten und vorgeschlagene Raten prüfen",
+        "Projektunterlagen und Kaufbedingungen überprüfen"
+      ],
+      "cta": "Preise und Zahlungsplan anfragen"
+    },
+    "visa": {
+      "eyebrow": "AUFENTHALTSOPTIONEN",
+      "title": "Ein Zuhause.\nEine längere Perspektive.",
+      "text": "Eine Immobilieninvestition kann einen Aufenthaltsantrag in den Vereinigten Arabischen Emiraten unterstützen. Maßgeblich sind unter anderem die Immobilie, Eigentumsverhältnisse und aktuellen Behördenvorgaben.",
+      "investor": "Investorenaufenthalt: Lassen Sie die ausgewählte Immobilie und Ihre Eigentumssituation prüfen. Die zuständige Behörde muss die Voraussetzungen bestätigen.",
+      "golden": "Golden Visa: Der Immobilienweg setzt in der Regel mindestens 2 Millionen AED Investition voraus, vorbehaltlich der erforderlichen Nachweise und behördlichen Prüfung.",
+      "note": "Der Wohnungskauf führt nicht automatisch zu einem Visum. Voraussetzungen, Unterlagen und Genehmigung müssen im Einzelfall geprüft werden."
+    },
+    "guide": {
+      "eyebrow": "KAUF AUS DEUTSCHLAND",
+      "title": "Ihre Immobilie in Dubai South,\naus Deutschland kaufen.",
+      "paragraphs": [
+        "Klären Sie zuerst Ihr Ziel: Zweitwohnsitz, künftiges Zuhause oder Vermietung. Vergleichen Sie bei SAMANA South Haven 2 die Lage, den Grundriss, die gesamten Erwerbskosten und laufenden Ausgaben. Mieteinnahmen und Wertsteigerungen sind nicht garantiert.",
+        "Fordern Sie für einen Kauf aus Deutschland die Projektregistrierung, den Kaufvertrag, den aktuellen Zahlungsplan und offizielle Zahlungsanweisungen an. Lassen Sie die Unterlagen unabhängig prüfen und klären Sie Identitätsprüfung, Unterzeichnung aus der Ferne und eine mögliche Verwaltung vor Ort.",
+        "Ihr steuerlicher Wohnsitz kann in Deutschland Melde- oder Steuerpflichten für Auslandsimmobilien, Mieteinnahmen oder einen späteren Verkauf auslösen. Holen Sie vor einer verbindlichen Entscheidung Beratung in Deutschland und in den Emiraten ein. Berücksichtigen Sie Überweisungskosten und Wechselkursschwankungen zwischen Euro und Dirham."
+      ],
+      "cta": "Über Ihre Investition sprechen"
+    },
+    "faq": {
+      "eyebrow": "IHRE FRAGEN",
+      "title": "Mehr Klarheit.\nVor dem nächsten Schritt.",
+      "items": [
+        {
+          "q": "Wo liegt SAMANA South Haven 2?",
+          "a": "Das Projekt liegt in Dubai South. Der Bauträger nennt unter anderem Expo City und den Al Maktoum International Airport als nahegelegene Ziele. Fragen Sie den genauen Standort an und prüfen Sie die für Sie relevanten Wege."
+        },
+        {
+          "q": "Welche Wohnungstypen werden vorgestellt?",
+          "a": "Die Broschüre zeigt Studios, vier Grundrisstypen mit einem Schlafzimmer sowie eine Wohnung mit zwei Schlafzimmern und Abstellraum. Verfügbarkeit, Flächen und endgültige Ausstattung sind für die jeweilige Einheit zu bestätigen."
+        },
+        {
+          "q": "Welche Preise und Zahlungsbedingungen gelten?",
+          "a": "Die bereitgestellten Preise beginnen bei 644.000 AED für Studios und 1.314.000 AED für die ausgewählten Wohnungen mit zwei Schlafzimmern und Abstellraum. Verfügbarkeit und Bedingungen bedürfen einer Bestätigung. Preise für ein Schlafzimmer, Zahlungsplan und Übergabe sind auf Anfrage erhältlich."
+        },
+        {
+          "q": "Kann ich einen Kauf aus Deutschland vorbereiten?",
+          "a": "Ja. Geben Sie im Formular Ihr Land, den gewünschten Wohnungstyp und Ihr Budget an. Erkundigen Sie sich nach Besichtigungen aus der Ferne, Dokumentenprüfung und den für Sie passenden Möglichkeiten der Unterzeichnung."
+        },
+        {
+          "q": "Ermöglicht der Kauf ein Investorenvisum oder Golden Visa?",
+          "a": "Immobilieneigentum kann einen Aufenthaltsantrag unterstützen, sofern aktuelle Voraussetzungen erfüllt sind und eine Genehmigung erfolgt. Für den Immobilienweg des Golden Visa sind in der Regel mindestens 2 Millionen AED erforderlich. Ein Kauf garantiert weder Eignung noch Bewilligung."
+        },
+        {
+          "q": "Sind Mieteinnahmen garantiert?",
+          "a": "Diese Website nennt keine garantierte Rendite. Prüfen Sie erzielbare Mieten, Auslastung, Gemeinschafts- und Verwaltungskosten sowie Marktbedingungen anhand aktueller, unabhängiger Daten."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "IHR NÄCHSTES KAPITEL",
+      "title": "Entdecken Sie\nIhren Süden.",
+      "text": "Erhalten Sie die Broschüre, fragen Sie nach der aktuellen Verfügbarkeit und finden Sie die passende Wohnung für Ihre Pläne.",
+      "cta": "Meine Anfrage starten",
+      "reassurance": "Ihre Angaben werden zur Beantwortung Ihrer Immobilienanfrage verwendet.",
+      "missingForm": "Das Formular wird derzeit angebunden. Bitte besuchen Sie uns bald erneut."
+    },
+    "footer": {
+      "description": "Zeitgemäße Wohnungen mit Urlaubsgefühl in Dubai South.",
+      "explore": "Entdecken",
+      "investment": "Investition",
+      "legal": "Informationen",
+      "privacy": "Datenschutz",
+      "disclaimer": "Projektinformationen",
+      "copyright": "Alle Rechte vorbehalten.",
+      "sources": "Quellen",
+      "visaSource": "Offizielle Aufenthaltsinformationen des Dubai Land Department",
+      "brochureSource": "Für dieses Projekt bereitgestellte Bauträgerbroschüren",
+      "disclaimerText": "Allgemeine Informationen zur Orientierung. Bilder sind Visualisierungen des Bauträgers. Verfügbarkeit, Ausstattung, Preise, Zahlungsbedingungen und Übergabe müssen schriftlich bestätigt werden. Diese Website bietet keine Finanz-, Steuer- oder Einwanderungsberatung.",
+      "privacyText": "Das Formular erfasst die von Ihnen übermittelten Angaben, damit der Empfänger Ihre Immobilienanfrage beantworten kann. Prüfen Sie vor dem Absenden die Datenschutzhinweise und Kontaktdaten des Formulars. Übermitteln Sie keine Pässe, Bankunterlagen oder anderen sensiblen Dokumente."
+    },
+    "ui": {
+      "discover": "Entdecken",
+      "back": "Zurück",
+      "allResidences": "Alle Wohnungen",
+      "requestPlans": "Grundrisse anfragen",
+      "requestPrice": "Aktuelle Preise anfragen",
+      "readGuide": "Investitionsleitfaden lesen",
+      "scroll": "Scrollen und entdecken",
+      "rendering": "Visualisierung des Bauträgers · Illustration",
+      "onRequest": "Auf Anfrage",
+      "studio": "Studio",
+      "oneBed": "1 Schlafzimmer",
+      "twoBed": "2 Schlafzimmer + Abstellraum",
+      "sqm": "m²",
+      "formTitle": "Anfrage zu SAMANA South Haven 2",
+      "openForm": "Anfrageformular öffnen",
+      "closeForm": "Anfrageformular schließen"
+    },
+    "alt": {
+      "hero": "Visualisierung von SAMANA South Haven 2 in Dubai South",
+      "architecture": "Zeitgemäße Fassade und begrünte Außenanlagen",
+      "pool": "Gemeinschaftspool und Freizeitbereiche bei SAMANA South Haven 2",
+      "interior": "Visualisierung eines zeitgemäßen Wohnungsinterieurs",
+      "gym": "Fitnessbereich auf dem Dach aus der Projektbroschüre",
+      "location": "Lageplan des Bauträgers für Dubai South",
+      "studio": "Studio-Grundriss aus der Bauträgerbroschüre",
+      "oneBed": "Grundriss mit einem Schlafzimmer aus der Broschüre",
+      "twoBed": "Grundriss mit zwei Schlafzimmern und Abstellraum",
+      "logo": "Logo von SAMANA South Haven 2"
+    },
+    "pricing": {
+      "title": "Preise im Überblick.",
+      "from": "Ab",
+      "floor": "Etage",
+      "range": "Preisspanne",
+      "parkingStudio": "Die Parkplatzzuordnung der Studios variiert je Einheit; bitte vor dem Kauf bestätigen lassen.",
+      "parkingTwo": "Ein Stellplatz ist bei den ausgewählten Wohnungen mit zwei Schlafzimmern enthalten.",
+      "communityView": "Blick auf die Wohnanlage",
+      "units": "Einheiten",
+      "area": "Ungefähre Fläche",
+      "usdNote": "USD-Beträge sind Richtwerte, berechnet mit 3,6725 AED je 1 USD; Bankgebühren und Wechselkursaufschläge sind nicht enthalten.",
+      "availabilityNote": "Preise und Verfügbarkeit bedürfen einer aktuellen schriftlichen Bestätigung.",
+      "sourceNote": "Richtpreise, Stand 9. Oktober 2026. Fordern Sie ein Angebot für die gewählte Einheit an."
+    }
+  },
+  "pt": {
+    "lang": "pt",
+    "country": "Portugal",
+    "seo": {
+      "title": "SAMANA South Haven 2 | Apartamentos em Dubai South",
+      "description": "Descubra SAMANA South Haven 2 em Dubai South: estúdios, apartamentos com 1 e 2 quartos e espaços de lazer. Prepare a sua compra a partir de Portugal."
+    },
+    "slugs": {
+      "home": "samana-south-haven-2-dubai-south",
+      "guide": "comprar-dubai-south-a-partir-portugal",
+      "payment": "plano-de-pagamento",
+      "residences": "apartamentos"
+    },
+    "nav": {
+      "project": "O projeto",
+      "residences": "Residências",
+      "lifestyle": "Estilo de vida",
+      "location": "Localização",
+      "invest": "Investir",
+      "contact": "Pedir informações",
+      "language": "Idioma",
+      "menu": "Abrir menu",
+      "close": "Fechar menu"
+    },
+    "hero": {
+      "eyebrow": "SAMANA SOUTH HAVEN 2 · DUBAI SOUTH",
+      "title": "Um novo horizonte.\nOutro ritmo.",
+      "subtitle": "Residências contemporâneas. Dias com espírito de férias. Descubra outra forma de viver em Dubai South.",
+      "cta": "Receber a brochura",
+      "secondary": "Explorar as residências"
+    },
+    "intro": {
+      "eyebrow": "01 / UM LUGAR SEU",
+      "title": "Mais espaço\npara viver bem.",
+      "text": "SAMANA South Haven 2 reúne estúdios, apartamentos com um quarto e apartamentos com dois quartos e arrecadação em Dubai South. Uma comunidade pensada para o conforto, o lazer e os pequenos momentos que fazem uma casa."
+    },
+    "architecture": {
+      "eyebrow": "02 / ARQUITETURA",
+      "title": "Linhas depuradas.\nNovas possibilidades.",
+      "text": "Pormenores contemporâneos, espaços ajardinados e interiores em tons serenos criam um ambiente acolhedor. Plantas pensadas para manhãs tranquilas, noites partilhadas e todos os momentos pelo meio."
+    },
+    "amenities": {
+      "eyebrow": "03 / UM NOVO QUOTIDIANO",
+      "title": "Os seus dias.\nO seu ritmo.",
+      "text": "Mexer-se, descansar, trabalhar ou conviver. Os equipamentos anunciados pelo promotor trazem o ambiente de um resort à vida de todos os dias.",
+      "items": [
+        "Piscina para adultos",
+        "Jacuzzi exterior",
+        "Piscina e parque infantil",
+        "Ginásio interior na cobertura",
+        "Banho de vapor e sauna na cobertura",
+        "Espaço de coworking com cabines privadas",
+        "Cinema ao ar livre",
+        "Campo polidesportivo",
+        "Ginásio exterior e percurso de corrida",
+        "Sala de leitura e zonas ajardinadas"
+      ]
+    },
+    "location": {
+      "eyebrow": "04 / DUBAI SOUTH",
+      "title": "Uma perspetiva\na sul.",
+      "text": "Descubra uma casa em Dubai South, no corredor sul do Dubai, perto de destinos como Expo City e o Aeroporto Internacional Al Maktoum.",
+      "note": "A brochura do promotor indica percursos de 15–20 minutos até aos destinos apresentados. Estes tempos são indicativos e variam com a rota e o trânsito.",
+      "landmarks": [
+        "Aeroporto Internacional Al Maktoum",
+        "Expo City",
+        "Dubai Marina",
+        "Ibn Battuta Mall",
+        "Dubai Investment Park",
+        "Jebel Ali"
+      ]
+    },
+    "residences": {
+      "eyebrow": "05 / ENCONTRE O SEU ESPAÇO",
+      "title": "Uma morada.\nA sua forma de viver.",
+      "text": "Explore as plantas apresentadas na brochura do promotor. Peça as frações disponíveis, as áreas exatas e as especificações antes de escolher.",
+      "items": [
+        {
+          "name": "Estúdio",
+          "description": "Um espaço aberto e funcional para um quotidiano bem pensado.",
+          "slug": "estudio"
+        },
+        {
+          "name": "Um quarto",
+          "description": "Sala e quarto independentes, com quatro tipos de planta na brochura.",
+          "slug": "um-quarto"
+        },
+        {
+          "name": "Dois quartos + arrecadação",
+          "description": "Mais espaço para partilhar, instalar-se e organizar o dia a dia.",
+          "slug": "dois-quartos-arrecadacao"
+        }
+      ],
+      "cta": "Receber as plantas"
+    },
+    "payment": {
+      "eyebrow": "06 / O SEU INVESTIMENTO",
+      "title": "Um plano claro\ncomeça com uma conversa.",
+      "text": "Consulte a disponibilidade e peça as condições de pagamento atualizadas. Confirme por escrito o preço da fração escolhida, todos os custos e a data de entrega.",
+      "steps": [
+        "Escolher a tipologia pretendida",
+        "Analisar disponibilidade, custo total e calendário proposto",
+        "Verificar a documentação e as condições de compra"
+      ],
+      "cta": "Pedir preços e condições"
+    },
+    "visa": {
+      "eyebrow": "OPÇÕES DE RESIDÊNCIA",
+      "title": "Uma casa.\nUm horizonte mais longo.",
+      "text": "Um investimento imobiliário pode apoiar um pedido de residência nos Emirados Árabes Unidos, consoante o imóvel, a titularidade e os requisitos em vigor.",
+      "investor": "Visto de investidor: peça uma avaliação do imóvel e da sua situação enquanto proprietário. A autoridade competente deve confirmar a elegibilidade.",
+      "golden": "Golden Visa: a via imobiliária exige geralmente um investimento mínimo de 2 milhões AED, sujeito a documentação e aprovação das autoridades.",
+      "note": "A compra de um apartamento não concede automaticamente um visto. Requisitos, documentos e aprovação devem ser verificados em cada caso."
+    },
+    "guide": {
+      "eyebrow": "COMPRAR A PARTIR DE PORTUGAL",
+      "title": "A sua compra em Dubai South,\na partir de Portugal.",
+      "paragraphs": [
+        "Comece pelo seu objetivo: segunda habitação, futura casa ou investimento para arrendamento. Compare a localização, a planta, o custo total de aquisição e os encargos recorrentes de SAMANA South Haven 2. Não existe garantia de rendimentos de arrendamento nem de valorização.",
+        "Para uma compra a partir de Portugal, solicite os dados de registo do projeto, o contrato de compra e venda, o calendário de pagamentos atualizado e as instruções oficiais de pagamento. Recorra a uma análise independente e esclareça como serão feitas a identificação, a assinatura à distância e a gestão do imóvel.",
+        "A sua residência fiscal pode implicar obrigações declarativas ou fiscais em Portugal relativamente ao imóvel, às rendas ou a uma futura venda. Consulte profissionais em Portugal e nos Emirados antes de assumir um compromisso. Inclua no orçamento os custos de transferência e as variações cambiais entre o euro e o dirham."
+      ],
+      "cta": "Conversar sobre o investimento"
+    },
+    "faq": {
+      "eyebrow": "AS SUAS PERGUNTAS",
+      "title": "Mais clareza.\nAntes do próximo passo.",
+      "items": [
+        {
+          "q": "Onde fica SAMANA South Haven 2?",
+          "a": "O empreendimento situa-se em Dubai South. A documentação do promotor refere destinos próximos como Expo City e o Aeroporto Internacional Al Maktoum. Peça a localização exata e verifique os percursos que lhe interessam."
+        },
+        {
+          "q": "Que tipologias são apresentadas?",
+          "a": "A brochura apresenta estúdios, quatro tipos de planta com um quarto e um apartamento com dois quartos e arrecadação. Confirme a disponibilidade, a área e as especificações finais da fração escolhida."
+        },
+        {
+          "q": "Quais são os preços e o plano de pagamento?",
+          "a": "Os preços fornecidos começam em 644 000 AED para estúdios e em 1 314 000 AED para as frações selecionadas com dois quartos e arrecadação. Disponibilidade e condições carecem de confirmação. Os preços de um quarto, o calendário de pagamento e a entrega estão disponíveis sob consulta."
+        },
+        {
+          "q": "Posso preparar a compra a partir de Portugal?",
+          "a": "Sim. Indique o seu país, a tipologia pretendida e o orçamento no formulário. Pergunte como organizar visitas à distância, verificação de documentos e assinatura de acordo com a sua situação."
+        },
+        {
+          "q": "A compra permite obter um visto de investidor ou Golden Visa?",
+          "a": "A propriedade pode apoiar um pedido de residência, sujeito aos requisitos atuais e à aprovação. A via imobiliária do Golden Visa exige geralmente pelo menos 2 milhões AED. A compra de uma fração não garante elegibilidade nem concessão."
+        },
+        {
+          "q": "Os rendimentos de arrendamento são garantidos?",
+          "a": "Este site não apresenta uma rentabilidade garantida. Analise rendas possíveis, ocupação, despesas de condomínio, gestão e condições de mercado com base em informação independente e atualizada."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "O SEU PRÓXIMO CAPÍTULO",
+      "title": "Encontre\no seu sul.",
+      "text": "Receba a brochura, consulte a disponibilidade atual e descubra a residência que corresponde aos seus planos.",
+      "cta": "Iniciar o meu pedido",
+      "reassurance": "Os seus dados são utilizados para responder ao seu pedido de informação imobiliária.",
+      "missingForm": "Estamos a ligar o formulário. Volte a visitar-nos em breve."
+    },
+    "footer": {
+      "description": "Residências contemporâneas e vida com espírito de férias em Dubai South.",
+      "explore": "Explorar",
+      "investment": "Investimento",
+      "legal": "Informações",
+      "privacy": "Privacidade",
+      "disclaimer": "Informação do projeto",
+      "copyright": "Todos os direitos reservados.",
+      "sources": "Fontes",
+      "visaSource": "Informação oficial do Dubai Land Department sobre residência",
+      "brochureSource": "Brochuras do promotor fornecidas para este projeto",
+      "disclaimerText": "Informação de caráter geral. As imagens são representações do promotor. A disponibilidade, as especificações, os preços, as condições de pagamento e a entrega exigem confirmação escrita. Este site não presta aconselhamento financeiro, fiscal ou de imigração.",
+      "privacyText": "O formulário recolhe os dados que decidir enviar para que o destinatário responda ao seu pedido imobiliário. Consulte a política de privacidade e os contactos do formulário antes de o submeter. Não envie passaporte, documentos bancários ou outros documentos sensíveis."
+    },
+    "ui": {
+      "discover": "Descobrir",
+      "back": "Voltar",
+      "allResidences": "Todas as residências",
+      "requestPlans": "Pedir plantas",
+      "requestPrice": "Pedir preços atuais",
+      "readGuide": "Ler o guia de investimento",
+      "scroll": "Deslize para descobrir",
+      "rendering": "Imagem do promotor · ilustrativa",
+      "onRequest": "Sob consulta",
+      "studio": "Estúdio",
+      "oneBed": "1 quarto",
+      "twoBed": "2 quartos + arrecadação",
+      "sqm": "m²",
+      "formTitle": "Pedido sobre SAMANA South Haven 2",
+      "openForm": "Abrir formulário",
+      "closeForm": "Fechar formulário"
+    },
+    "alt": {
+      "hero": "Representação de SAMANA South Haven 2 em Dubai South",
+      "architecture": "Fachada contemporânea e jardins de SAMANA South Haven 2",
+      "pool": "Piscina comum e espaços de lazer de SAMANA South Haven 2",
+      "interior": "Representação do interior de um apartamento contemporâneo",
+      "gym": "Ginásio na cobertura apresentado na brochura",
+      "location": "Mapa de localização do promotor em Dubai South",
+      "studio": "Planta de um estúdio da brochura do promotor",
+      "oneBed": "Planta de um apartamento com um quarto",
+      "twoBed": "Planta com dois quartos e arrecadação",
+      "logo": "Logótipo SAMANA South Haven 2"
+    },
+    "pricing": {
+      "title": "Preços com clareza.",
+      "from": "Desde",
+      "floor": "Piso",
+      "range": "Intervalo de preços",
+      "parkingStudio": "O estacionamento dos estúdios varia consoante a fração; confirme antes da compra.",
+      "parkingTwo": "Um lugar de estacionamento incluído nas frações selecionadas com dois quartos.",
+      "communityView": "Vista para a comunidade",
+      "units": "Frações",
+      "area": "Área aproximada",
+      "usdNote": "Valores em USD indicativos, calculados a 3,6725 AED por 1 USD; excluem comissões bancárias e margens de câmbio.",
+      "availabilityNote": "Preços e disponibilidade sujeitos a confirmação escrita atualizada.",
+      "sourceNote": "Preços indicativos atualizados em 9 de outubro de 2026. Peça uma proposta para a fração escolhida."
+    }
+  }
+}
