@@ -16,3 +16,9 @@ Prices supplied 9 October 2026. USD amounts are indicative at AED 3.6725/USD. On
 The Tally form kdD946 remains in English; translate its fields in Tally. No external navigation links are emitted by the website; the embedded Tally branding is controlled by the provider.
 
 Assets and project names retain their respective owners' rights. No licence to third-party media is implied.
+
+SEO deployment
+The workflow uses the active GitHub Pages base URL for canonical URLs, hreflang, robots.txt and all sitemaps. sitemap.xml indexes sitemap-pages.xml (42 pages, six languages plus x-default) and sitemap-images.xml (images actually present on each page). The 404 page is noindex.
+
+Prepared domain: https://samana-south-haven-2.com
+seo-domain/ contains the prepared domain-specific sitemap and robots files. These are reference files, not deployed under the current GitHub Pages URL. DNS and the Pages custom-domain setting have not been changed. Once the domain is connected in GitHub Pages, rerun Publish website to generate all pages and SEO files for the active domain automatically.

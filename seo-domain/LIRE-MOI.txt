@@ -1,0 +1,20 @@
+PACK SEO — SAMANA SOUTH HAVEN 2
+Domaine cible : https://samana-south-haven-2.com
+
+Préparé le 9 octobre 2026. Ces fichiers sont préparés pour le nouveau domaine. Le domaine personnalisé et ses DNS ne sont pas activés. Le site publié utilise encore son adresse GitHub Pages.
+
+FICHIERS
+• sitemap.xml : index des deux sitemaps.
+• sitemap-pages.xml : 42 pages et leurs variantes EN, FR, ES, NL, DE, PT et x-default.
+• sitemap-images.xml : images effectivement présentes sur chaque page, avec leurs adresses complètes.
+• robots.txt : exploration autorisée et déclaration du sitemap principal.
+
+Le pack livré séparément contient aussi le site complet prêt pour ce domaine : les 42 pages, leurs balises canonical, hreflang, Open Graph, données structurées, les images, les styles et le formulaire Tally. La page 404 reste exclue de l’indexation. Aucun classement Google n’est garanti.
+
+PUBLICATION ULTÉRIEURE
+1. Relier le domaine à l’hébergement choisi et activer HTTPS.
+2. Déployer le contenu de l’archive à la racine du domaine, en conservant les dossiers de langues et assets.
+3. Vérifier que https://samana-south-haven-2.com/sitemap.xml affiche bien du XML, et non la page d’attente Hostinger.
+4. Dans Google Search Console, vérifier la propriété du domaine, puis soumettre sitemap.xml. Aucune propriété Search Console n’a été créée ni aucun sitemap soumis.
+
+Ne pas envoyer cette version à l’ancienne URL GitHub avec son sous-dossier : ce pack est prévu pour la racine du nouveau domaine.

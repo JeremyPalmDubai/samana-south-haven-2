@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samana-south-haven-2.com/sitemap.xml

@@ -19,9 +19,10 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: actions/configure-pages@v5
+        id: pages
       - name: Generate multilingual pages
         env:
-          SITE_ORIGIN: https://jeremypalmdubai.github.io/samana-south-haven-2
+          SITE_ORIGIN: ${{ steps.pages.outputs.base_url }}
           SITE_INDEXABLE: 'true'
         run: |
           node build.mjs
