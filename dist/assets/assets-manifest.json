@@ -543,5 +543,130 @@
     "width": 278,
     "height": 78,
     "extraction": "exact original vector paths; no raster embedding or recreated typography"
+  },
+  {
+    "file": "studio-layout.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 25,
+    "description": "studio layout; exact embedded brochure image",
+    "width": 1079,
+    "height": 1505,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "studio-keyplan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 25,
+    "description": "studio keyplan; exact embedded brochure image",
+    "width": 1193,
+    "height": 1456,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "onebed-1-layout.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 26,
+    "description": "onebed-1 layout; exact embedded brochure image",
+    "width": 1112,
+    "height": 1448,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "onebed-1-keyplan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 26,
+    "description": "onebed-1 keyplan; exact embedded brochure image",
+    "width": 1179,
+    "height": 1459,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "onebed-2-layout.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 27,
+    "description": "onebed-2 layout; exact embedded brochure image",
+    "width": 1087,
+    "height": 1415,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "onebed-2-keyplan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 27,
+    "description": "onebed-2 keyplan; exact embedded brochure image",
+    "width": 1122,
+    "height": 1460,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "onebed-3-layout.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 28,
+    "description": "onebed-3 layout; exact embedded brochure image",
+    "width": 1069,
+    "height": 1398,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "onebed-3-keyplan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 28,
+    "description": "onebed-3 keyplan; exact embedded brochure image",
+    "width": 1159,
+    "height": 1459,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "onebed-4-layout.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 29,
+    "description": "onebed-4 layout; exact embedded brochure image",
+    "width": 1012,
+    "height": 1366,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "onebed-4-keyplan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 29,
+    "description": "onebed-4 keyplan; exact embedded brochure image",
+    "width": 1103,
+    "height": 1460,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "twobed-layout.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 30,
+    "description": "twobed layout; exact embedded brochure image",
+    "width": 1065,
+    "height": 770,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "twobed-keyplan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 30,
+    "description": "twobed keyplan; exact embedded brochure image",
+    "width": 901,
+    "height": 1459,
+    "extraction": "original embedded image; complete apartment or floor keyplan"
+  },
+  {
+    "file": "location-map.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 10,
+    "description": "Official location map and nearby destinations",
+    "width": 2000,
+    "height": 1415,
+    "extraction": "complete brochure page to retain labels and developer journey estimates"
+  },
+  {
+    "file": "social-hero.jpg",
+    "source": "hero.webp",
+    "description": "Project hero adapted to a 1200 by 630 JPEG social preview",
+    "width": 1200,
+    "height": 630,
+    "extraction": "resized crop of the actual project hero extracted from the presentation"
   }
 ]

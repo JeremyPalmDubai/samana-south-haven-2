@@ -53,3 +53,25 @@ updateScroll();
 const embed=document.querySelector('iframe[data-tally-src]');
 function loadForm(){if(!embed)return;embed.src=embed.dataset.tallySrc;const script=document.createElement('script');script.src='https://tally.so/widgets/embed.js';script.async=true;script.onload=()=>window.Tally?.loadEmbeds();document.body.append(script)}
 if(embed&&'IntersectionObserver'in window){const o=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){loadForm();o.disconnect()}},{rootMargin:'700px'});o.observe(embed)}else loadForm();
+// Plan gallery: links still open the original image when JavaScript is unavailable.
+const planDialog=document.querySelector('.plan-dialog'),planImage=planDialog?.querySelector('[data-plan-image]'),planStage=planDialog?.querySelector('.plan-stage');
+let planScale=1,planFitWidth=0,planOpener;
+function fitPlan(){planScale=1;planStage?.classList.remove('zoomed');if(planImage){planImage.style.width='';planImage.style.height='';}if(planStage){planStage.scrollTop=0;planStage.scrollLeft=0}planDialog?.querySelector('[data-plan-zoom="out"]')?.setAttribute('disabled','');planDialog?.querySelector('[data-plan-zoom="in"]')?.removeAttribute('disabled');}
+document.querySelectorAll('[data-plan]').forEach(link=>link.addEventListener('click',event=>{
+ if(!planDialog?.showModal||event.ctrlKey||event.metaKey||event.shiftKey)return;
+ event.preventDefault();planOpener=link;planImage.onload=()=>{fitPlan();planFitWidth=planImage.getBoundingClientRect().width};planImage.src=link.href;planImage.alt=link.dataset.planTitle;planDialog.querySelector('#plan-dialog-title').textContent=link.dataset.planTitle;planDialog.querySelector('[data-plan-download]').href=link.href;fitPlan();planDialog.showModal();document.body.style.overflow='hidden';
+}));
+planDialog?.querySelector('[data-plan-close]')?.addEventListener('click',()=>planDialog.close());
+planDialog?.addEventListener('close',()=>{document.body.style.overflow='';planOpener?.focus()});
+planDialog?.addEventListener('click',event=>{if(event.target===planDialog)planDialog.close()});
+planDialog?.querySelectorAll('[data-plan-zoom]').forEach(button=>button.addEventListener('click',()=>{
+ if(button.dataset.planZoom==='fit'){fitPlan();return;}
+ if(!planFitWidth)planFitWidth=planImage.getBoundingClientRect().width;
+ planScale=Math.max(1,Math.min(4,planScale+(button.dataset.planZoom==='in'?.5:-.5)));
+ if(planScale===1){fitPlan();return;}
+ planStage.classList.add('zoomed');planImage.style.width=`${planFitWidth*planScale}px`;planImage.style.height='auto';planDialog.querySelector('[data-plan-zoom="out"]').disabled=false;planDialog.querySelector('[data-plan-zoom="in"]').disabled=planScale===4;
+}));
+addEventListener('resize',()=>{if(planDialog?.open){fitPlan();planFitWidth=planImage.getBoundingClientRect().width}});
+document.querySelectorAll('[data-plan-filter]').forEach(button=>button.addEventListener('click',()=>{
+ const section=button.closest('.plans-hub');section.querySelectorAll('[data-plan-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));section.querySelectorAll('[data-plan-group]').forEach(card=>{card.hidden=button.dataset.planFilter!=='all'&&card.dataset.planGroup!==button.dataset.planFilter});
+}));

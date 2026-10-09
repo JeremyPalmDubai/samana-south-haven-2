@@ -5,11 +5,11 @@ Préparé le 9 octobre 2026. Ces fichiers sont préparés pour le nouveau domain
 
 FICHIERS
 • sitemap.xml : index des deux sitemaps.
-• sitemap-pages.xml : 42 pages et leurs variantes EN, FR, ES, NL, DE, PT et x-default.
+• sitemap-pages.xml : 48 pages et leurs variantes EN, FR, ES, NL, DE, PT et x-default.
 • sitemap-images.xml : images effectivement présentes sur chaque page, avec leurs adresses complètes.
 • robots.txt : exploration autorisée et déclaration du sitemap principal.
 
-Le pack livré séparément contient aussi le site complet prêt pour ce domaine : les 42 pages, leurs balises canonical, hreflang, Open Graph, données structurées, les images, les styles et le formulaire Tally. La page 404 reste exclue de l’indexation. Aucun classement Google n’est garanti.
+Le pack livré séparément contient aussi le site complet prêt pour ce domaine : les 48 pages, leurs balises canonical, hreflang, Open Graph, données structurées, les images, les styles et le formulaire Tally. La page 404 reste exclue de l’indexation. Aucun classement Google n’est garanti.
 
 PUBLICATION ULTÉRIEURE
 1. Relier le domaine à l’hébergement choisi et activer HTTPS.

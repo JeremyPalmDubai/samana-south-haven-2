@@ -1,0 +1,48 @@
+[
+  {
+    "id": "studio",
+    "group": 0,
+    "page": 25,
+    "floors": "1\u20136",
+    "sheet": "studio-plan"
+  },
+  {
+    "id": "onebed-1",
+    "group": 1,
+    "variant": 1,
+    "page": 26,
+    "floors": "1\u20136",
+    "sheet": "onebed-1-plan"
+  },
+  {
+    "id": "onebed-2",
+    "group": 1,
+    "variant": 2,
+    "page": 27,
+    "floors": "1\u20136",
+    "sheet": "onebed-2-plan"
+  },
+  {
+    "id": "onebed-3",
+    "group": 1,
+    "variant": 3,
+    "page": 28,
+    "floors": "2\u20136",
+    "sheet": "onebed-3-plan"
+  },
+  {
+    "id": "onebed-4",
+    "group": 1,
+    "variant": 4,
+    "page": 29,
+    "floors": "1\u20136",
+    "sheet": "onebed-4-plan"
+  },
+  {
+    "id": "twobed",
+    "group": 2,
+    "page": 30,
+    "floors": "2\u20136",
+    "sheet": "twobed-plan"
+  }
+]
