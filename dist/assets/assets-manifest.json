@@ -1,0 +1,547 @@
+[
+  {
+    "file": "hero.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 7,
+    "description": "Main exterior in daylight",
+    "width": 1920,
+    "height": 1082,
+    "source_width": 3845,
+    "source_height": 2166,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "hero-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 7,
+    "description": "Main exterior in daylight",
+    "width": 800,
+    "height": 451,
+    "source_width": 3845,
+    "source_height": 2166,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "exterior.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 10,
+    "description": "Street view of the exterior",
+    "width": 1920,
+    "height": 1082,
+    "source_width": 3841,
+    "source_height": 2165,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "exterior-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 10,
+    "description": "Street view of the exterior",
+    "width": 800,
+    "height": 451,
+    "source_width": 3841,
+    "source_height": 2165,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "aerial.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 21,
+    "description": "Aerial exterior at golden hour",
+    "width": 1920,
+    "height": 1082,
+    "source_width": 3840,
+    "source_height": 2165,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "aerial-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 21,
+    "description": "Aerial exterior at golden hour",
+    "width": 800,
+    "height": 451,
+    "source_width": 3840,
+    "source_height": 2165,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "night.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 11,
+    "description": "Exterior at night",
+    "width": 1920,
+    "height": 1082,
+    "source_width": 3841,
+    "source_height": 2165,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "night-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 11,
+    "description": "Exterior at night",
+    "width": 800,
+    "height": 451,
+    "source_width": 3841,
+    "source_height": 2165,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "aerial-night.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 9,
+    "description": "Aerial exterior and pool at night",
+    "width": 1920,
+    "height": 1083,
+    "source_width": 3840,
+    "source_height": 2166,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "aerial-night-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 9,
+    "description": "Aerial exterior and pool at night",
+    "width": 800,
+    "height": 451,
+    "source_width": 3840,
+    "source_height": 2166,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "pool.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 13,
+    "description": "Infinity adult pool",
+    "width": 1920,
+    "height": 1082,
+    "source_width": 3841,
+    "source_height": 2165,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "pool-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 13,
+    "description": "Infinity adult pool",
+    "width": 800,
+    "height": 451,
+    "source_width": 3841,
+    "source_height": 2165,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "kids-pool.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 14,
+    "description": "Kids pool and sun deck",
+    "width": 1920,
+    "height": 1082,
+    "source_width": 3841,
+    "source_height": 2165,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "kids-pool-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 14,
+    "description": "Kids pool and sun deck",
+    "width": 800,
+    "height": 451,
+    "source_width": 3841,
+    "source_height": 2165,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "gym.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 15,
+    "description": "Boutique indoor gym",
+    "width": 1920,
+    "height": 1080,
+    "source_width": 3841,
+    "source_height": 2161,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "gym-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 15,
+    "description": "Boutique indoor gym",
+    "width": 800,
+    "height": 450,
+    "source_width": 3841,
+    "source_height": 2161,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "lobby.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 17,
+    "description": "Reception lobby",
+    "width": 1920,
+    "height": 1080,
+    "source_width": 3841,
+    "source_height": 2161,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "lobby-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 17,
+    "description": "Reception lobby",
+    "width": 800,
+    "height": 450,
+    "source_width": 3841,
+    "source_height": 2161,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "living.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 18,
+    "description": "Living room interior",
+    "width": 1920,
+    "height": 1080,
+    "source_width": 3841,
+    "source_height": 2161,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "living-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 18,
+    "description": "Living room interior",
+    "width": 800,
+    "height": 450,
+    "source_width": 3841,
+    "source_height": 2161,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "bedroom.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 19,
+    "description": "Bedroom interior",
+    "width": 1920,
+    "height": 1080,
+    "source_width": 3841,
+    "source_height": 2161,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "bedroom-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 19,
+    "description": "Bedroom interior",
+    "width": 800,
+    "height": 450,
+    "source_width": 3841,
+    "source_height": 2161,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "bathroom.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 20,
+    "description": "Bathroom interior",
+    "width": 1424,
+    "height": 1780,
+    "source_width": 1424,
+    "source_height": 1780,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "bathroom-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 20,
+    "description": "Bathroom interior",
+    "width": 800,
+    "height": 1000,
+    "source_width": 1424,
+    "source_height": 1780,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "spa.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 20,
+    "description": "Treatment room interior",
+    "width": 1424,
+    "height": 1780,
+    "source_width": 1424,
+    "source_height": 1780,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "spa-800.webp",
+    "source": "Samana Haven 2 Presentation.pdf",
+    "page": 20,
+    "description": "Treatment room interior",
+    "width": 800,
+    "height": 1000,
+    "source_width": 1424,
+    "source_height": 1780,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "lifestyle.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 3,
+    "description": "Dubai urban lifestyle",
+    "width": 1920,
+    "height": 1359,
+    "source_width": 2384,
+    "source_height": 1687,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "lifestyle-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 3,
+    "description": "Dubai urban lifestyle",
+    "width": 800,
+    "height": 566,
+    "source_width": 2384,
+    "source_height": 1687,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "family.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 6,
+    "description": "Family lifestyle",
+    "width": 1195,
+    "height": 1688,
+    "source_width": 1195,
+    "source_height": 1688,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "family-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 6,
+    "description": "Family lifestyle",
+    "width": 800,
+    "height": 1130,
+    "source_width": 1195,
+    "source_height": 1688,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "arrival.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 15,
+    "description": "Entrance arrival rendering",
+    "width": 1920,
+    "height": 1359,
+    "source_width": 2384,
+    "source_height": 1687,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "arrival-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 15,
+    "description": "Entrance arrival rendering",
+    "width": 800,
+    "height": 566,
+    "source_width": 2384,
+    "source_height": 1687,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "dining.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 18,
+    "description": "Living and dining interior",
+    "width": 1920,
+    "height": 1355,
+    "source_width": 2386,
+    "source_height": 1684,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "dining-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 18,
+    "description": "Living and dining interior",
+    "width": 800,
+    "height": 565,
+    "source_width": 2386,
+    "source_height": 1684,
+    "extraction": "embedded image stream, without page text overlays"
+  },
+  {
+    "file": "studio-plan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 25,
+    "description": "Studio",
+    "width": 2400,
+    "height": 1698,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "studio-plan-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 25,
+    "description": "Studio",
+    "width": 800,
+    "height": 566,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "onebed-1-plan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 26,
+    "description": "One bedroom — Type 1",
+    "width": 2400,
+    "height": 1698,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "onebed-1-plan-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 26,
+    "description": "One bedroom — Type 1",
+    "width": 800,
+    "height": 566,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "onebed-2-plan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 27,
+    "description": "One bedroom — Type 2",
+    "width": 2400,
+    "height": 1698,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "onebed-2-plan-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 27,
+    "description": "One bedroom — Type 2",
+    "width": 800,
+    "height": 566,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "onebed-3-plan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 28,
+    "description": "One bedroom — Type 3",
+    "width": 2400,
+    "height": 1698,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "onebed-3-plan-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 28,
+    "description": "One bedroom — Type 3",
+    "width": 800,
+    "height": 566,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "onebed-4-plan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 29,
+    "description": "One bedroom — Type 4",
+    "width": 2400,
+    "height": 1698,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "onebed-4-plan-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 29,
+    "description": "One bedroom — Type 4",
+    "width": 800,
+    "height": 566,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "twobed-plan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 30,
+    "description": "Two bedroom with store",
+    "width": 2400,
+    "height": 1698,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "twobed-plan-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 30,
+    "description": "Two bedroom with store",
+    "width": 800,
+    "height": 566,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "amenities-roof-plan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 23,
+    "description": "Roof floor amenities",
+    "width": 2400,
+    "height": 1698,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "amenities-roof-plan-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 23,
+    "description": "Roof floor amenities",
+    "width": 800,
+    "height": 566,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "amenities-first-plan.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 24,
+    "description": "First floor amenities",
+    "width": 2400,
+    "height": 1698,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "amenities-first-plan-800.webp",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 24,
+    "description": "First floor amenities",
+    "width": 800,
+    "height": 566,
+    "extraction": "full page rendered to preserve all official labels, dimensions and disclaimers"
+  },
+  {
+    "file": "logo.svg",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 1,
+    "description": "Official project logo; original 18 vector paths, tightly cropped, transparent background",
+    "width": 278,
+    "height": 78,
+    "extraction": "exact original vector paths; no raster embedding or recreated typography"
+  },
+  {
+    "file": "logo-light.svg",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 1,
+    "description": "Official project logo; original 18 vector paths, tightly cropped, transparent background",
+    "width": 278,
+    "height": 78,
+    "extraction": "exact original vector paths; no raster embedding or recreated typography"
+  },
+  {
+    "file": "logo-dark.svg",
+    "source": "SAMANA South Haven 2 - Digital Brochure.pdf",
+    "page": 1,
+    "description": "Official project logo; original 18 vector paths, tightly cropped, transparent background",
+    "width": 278,
+    "height": 78,
+    "extraction": "exact original vector paths; no raster embedding or recreated typography"
+  }
+]
