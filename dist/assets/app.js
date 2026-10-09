@@ -6,7 +6,14 @@ setMenu(false);
 menu?.addEventListener('click',()=>setMenu(menu.getAttribute('aria-expanded')!=='true'));
 mobile?.addEventListener('click',e=>{if(e.target.closest('a'))setMenu(false)});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){const wasOpen=menu?.getAttribute('aria-expanded')==='true';setMenu(false);if(wasOpen)menu.focus()}});
-document.querySelector('[data-language]')?.addEventListener('change',e=>{location.href=e.target.value});
+// Native disclosure keeps language navigation usable without JavaScript.
+const languagePicker=document.querySelector('[data-language-picker]');
+const languageTrigger=languagePicker?.querySelector('summary');
+languagePicker?.addEventListener('toggle',()=>{if(languagePicker.open)setMenu(false)});
+menu?.addEventListener('click',()=>{if(languagePicker)languagePicker.open=false});
+document.addEventListener('click',event=>{if(languagePicker&&!languagePicker.contains(event.target))languagePicker.open=false});
+document.addEventListener('focusin',event=>{if(languagePicker&&!languagePicker.contains(event.target))languagePicker.open=false});
+languagePicker?.addEventListener('keydown',event=>{if(event.key==='Escape'&&languagePicker.open){event.preventDefault();event.stopPropagation();languagePicker.open=false;languageTrigger.focus()}});
 // One-shot, staggered entrances. Native scrolling stays untouched.
 let revealObserver;
 const candidates=[...document.querySelectorAll('.reveal,.feature-heading,.gallery-two figure,.amenity-list article,.residence-card,.visa-card,.faq>div,.contact>div,.steps article,.subhero>*,.plan-card')];
